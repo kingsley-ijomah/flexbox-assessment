@@ -12,7 +12,7 @@ Your final result should look like the image below:
 
 > **Callout:**
 >
-> [Download the starting point for this task](https://github.com/kingsley-ijomah/flexbox_assessment/blob/main/tasks/task1.html) to work in your own editor.
+> [Download the starting point for this task](https://github.com/kingsley-ijomah/flexbox-assessment/blob/main/tasks/task1.html) to work in your own editor.
 
 ## Task 2
 
@@ -24,7 +24,7 @@ Your final result should look like the image below:
 
 > **Callout:**
 >
-> [Download the starting point for this task](https://github.com/kingsley-ijomah/flexbox_assessment/blob/main/tasks/task2.html) to work in your own editor.
+> [Download the starting point for this task](https://github.com/kingsley-ijomah/flexbox-assessment/blob/main/tasks/task2.html) to work in your own editor.
 
 ## Task 3
 
@@ -36,7 +36,7 @@ Your final result should look like the image below:
 
 > **Callout:**
 >
-> [Download the starting point for this task](https://github.com/kingsley-ijomah/flexbox_assessment/blob/main/tasks/task3.html) to work in your own editor.
+> [Download the starting point for this task](https://github.com/kingsley-ijomah/flexbox-assessment/blob/main/tasks/task3.html) to work in your own editor.
 
 ## Task 4
 
@@ -48,4 +48,4 @@ Your final result should look like the image below:
 
 > **Callout:**
 >
-> [Download the starting point for this task](https://github.com/kingsley-ijomah/flexbox_assessment/blob/main/tasks/task4.html) to work in your own editor.
+> [Download the starting point for this task](https://github.com/kingsley-ijomah/flexbox-assessment/blob/main/tasks/task4.html) to work in your own editor.
